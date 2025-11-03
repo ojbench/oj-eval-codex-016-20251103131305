@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+code
+*.o
+*.obj
+*.exe
+*.out
+kv_store.bin
